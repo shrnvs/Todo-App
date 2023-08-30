@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.header {
+  width: 100vw;
+  background-color: #337ccf;
+  height: 80px;
+}
+
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f7f7f7;
+  font-weight: 200px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 10px;
+}
